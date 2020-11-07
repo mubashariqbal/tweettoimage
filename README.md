@@ -27,7 +27,10 @@ or globally
 
 ```npm install puppeteer --global```
 
-You'll need need to host the website somewhere.  I use [Valet](https://laravel.com/docs/8.x/valet)
+You'll need need to host the website somewhere.  For my needs hosting it locally was fine [Valet](https://laravel.com/docs/8.x/valet)
+
+**THERE IS NOT SECURITY BUILT IN AT THE MOMENT, SO HOSTING PUBLICILY IS NOT RECOMMENDED**
+
 
 ## How it works
 
