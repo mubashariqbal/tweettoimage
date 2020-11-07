@@ -37,7 +37,7 @@ You'll need need to host the website somewhere.  For my needs hosting it locally
 You should now able able to embed any tweet in an image:
 
 ```
-<img src="http://tweettoimage.test/[URL-TO-TWEET]">
+<img src="http://tweettoimage.test/tweets/[URL-TO-TWEET]">
 ```
 
 Feel free to reach out on Twitter [@mubashariqbal](https://twitter.com/mubashariqbal) if you have any questions.
